@@ -1,0 +1,6 @@
+order_id,product_id,customer_name,country,phone,payment_mode,transaction_date,amount
+1001,P101,Ravi,India,9876543210,UPI,2025-04-10,1200
+1002,P205,Sarah,Singapore,87654321,Card,2025-04-11,450
+1003,P333,John,India,12345,Crypto,InvalidDate,700
+1004,P404,Meera,India,987654321,UPI,2025-04-15,950
+1005,P505,David,Singapore,12345678,Cash,2025-04-16,300
